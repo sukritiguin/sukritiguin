@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukritiguin" alt="sukritiguin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/2811guin" target="blank"><img src="https://img.shields.io/twitter/follow/guin_sukriti?logo=twitter&style=for-the-badge" alt="guin_sukriti" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@2811guin" target="blank"><img src="https://img.shields.io/twitter/follow/guin_sukriti?logo=twitter&style=for-the-badge" alt="guin_sukriti" /></a> </p>
 
 - 🔭 I’m currently working on [Data Analysis and Visualization](https://github.com/sukritiguin/Data-Analytics-and-Visualisation)
 
