@@ -1,8 +1,6 @@
-add banner (use your links) :
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sukriti Guin</h1>
 <h3 align="center">A dedicated Python developer specializing in software development and data analysis.</h3>
-<img alight="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukritiguin&label=Profile%20views&color=0e75b6&style=flat" alt="sukritiguin" /> </p>
 
